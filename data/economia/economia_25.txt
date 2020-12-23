@@ -1,0 +1,20 @@
+Treinta empresas navarras avanzan en su transformación digital
+
+Son 15 empresas industriales y otras 15 TIC las que participan y reciben formación en esta segunda edición del Laboratorio.
+
+Quince empresas industriales, seis de ellas pertenecientes al sector agroalimentario y nueve al sector industrial en general, así como quince empresas TIC están dando los primeros pasos hacia su transformación digital participando en el Laboratorio de Ciencia de Datos.
+
+A través de esta herramienta de especialización organizada por el departamento de desarrollo Económico y Empresarial, a través de la empresa pública Nasertic, en colaboración con la UPNA, se ofrece una formación que tiene como objetivo dotar a las empresas y pymes de un conocimiento teórico básico y de herramientas especializadas en analítica avanzada e inteligencia artificial.
+
+Todo ello les permitirá iniciar el proceso de transformación hacia una industria 4.0 mediante el procesamiento masivo de datos, informa el Gobierno Foral.
+
+El 19 de noviembre finalizó el módulo de formación teórica de 16 horas de duración, común para todas las empresas participantes, en el que han podido conocer los conceptos estadísticos básicos, los tipos de modelos de machine learning y los principales lenguajes de programación en Ciencia de Datos.
+
+Y desde el 16 de noviembre y hasta finales de enero, las empresas van a tener la oportunidad de crear su propio proyecto recibiendo el apoyo técnico y las herramientas básicas para ello.
+
+Las empresas industriales han empezado a trabajar en un proyecto real de su empresa aplicando la ciencia de datos y a lo largo de tres semanas, se les va a dotar de un marco metodológico para apoyarlas en la definición de un proyecto de mejora competitiva a desarrollar durante el módulo aplicación.
+
+Por su parte, las empresas TIC de Navarra están recibiendo una formación teórica-práctica de 32 horas sobre ejemplos de aplicación en otras empresas y se les está dotando de un "kit básico de herramientas" para que puedan acometer futuros de proyectos en Ciencia de Datos.
+
+Además, en colaboración con una empresa beneficiaria, podrán ejecutar el proyecto propuesto por esta utilizando la infraestructura de supercomputación de Nasertic.
+Las empresas contarán también con la ayuda de 50 horas de una consultora, por lo que, podrán complementar la formación impartida en el curso, con el fin de tener a punto el Proyecto Industrial o Proyecto TIC para el 31 de marzo de 2021, fecha en la que finalizará esta segunda edición del Laboratorio. 

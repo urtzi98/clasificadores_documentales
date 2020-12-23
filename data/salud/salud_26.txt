@@ -1,0 +1,19 @@
+¿Cuánto oxígeno necesita el cerebro?
+
+El cerebro tiene una alta demanda de energía y reacciona de manera muy sensible a la deficiencia de oxígeno. En este sentido, los neurobiólogos de la Ludwig Maximilians Universitaet,en Muchich, han logrado por primera vez correlacionar directamente el consumo de oxígeno con la actividad de ciertas células nerviosas.
+
+El cerebro requiere una cantidad desproporcionada de energía en comparación con su masa corporal. Esta energía se genera, principalmente, por procesos metabólicos aeróbicos que consumen cantidades considerables de oxígeno. Por lo tanto, las concentraciones de oxígeno en el cerebro son un parámetro importante que influye en la función de las células nerviosas y las células gliales.
+
+Sin embargo, cuánto oxígeno se consume en el cerebro y cómo se relaciona esto con la actividad neuronal, hasta ahora, era, en gran parte, desconocido. Los neurobiológos Hans Straka, Suzan Ozugur y Lars Kunz lograron medir por primera vez esto en el cerebro, intacto, y correlacionarlo con la actividad de las células nerviosas. La investigación se publicó en la revista BMC Biology.
+
+En un modelo animal ya establecido, los científicos utilizaron sensores electroquímicos para determinar la concentración de oxígeno en el cerebro de los renacuajos de la rana con garras Xenopus laevis y en uno de los ventrículos cerebrales.
+
+De esta forma, pudieron controlar específicamente la cantidad de oxígeno disponible para el cerebro, así como inhibir la actividad de las células nerviosas con la ayuda de sustancias farmacológicas. Para ello, utilizaron el ejemplo de las células nerviosas que controlan los movimientos oculares y, así, los científicos lograron registrar, directamente, la relación entre el consumo de oxígeno y la actividad de las células nerviosas.
+
+“Hemos encontrado que el cerebro es anóxico en un ambiente normal saturado de aire, lo que significa que no se puede medir el oxígeno”, comenta Straka. Por lo tanto, el oxígeno completo fue utilizado inmediatamente por las células para sintetizar sustancias ricas en energía.
+
+Si había disponible más del doble de la concentración de oxígeno atmosférico, el metabolismo energético estaba saturado y el oxígeno era abundante en el cerebro.  “También pudimos demostrar que, durante la operación normal, solo alrededor del 50% del oxígeno se usa para la actividad de las células nerviosas. Por lo tanto, el otro 50% es necesario para las células gliales y para mantener la tasa metabólica básica de las células nerviosas. Sin embargo, las células nerviosas con mayor actividad consumen más oxígeno”, explica Straka.
+
+Para comprender mejor cómo se procesa la información en el cerebro, es esencial conocer la relación entre la disponibilidad de oxígeno y la actividad cerebral. Los resultados de los científicos proporcionan una visión inicial de esto y son una base importante para futuras investigaciones del equilibrio energético del cerebro en futuros experimentos, pero también para medir el consumo de oxígeno para diversas funciones de las células nerviosas.
+
+Esto también podría ser relevante desde el punto de vista médico, por ejemplo, para comprender las consecuencias de las deficiencias de oxígeno en el cerebro o para interpretar mejor la información sobre la actividad cerebral obtenida con las técnicas de imagen.

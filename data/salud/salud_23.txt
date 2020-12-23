@@ -1,0 +1,19 @@
+El volumen del hospital donde ingresa un paciente con insuficiencia cardiaca determina su pronóstico.
+
+Un estudio español ha analizado la relación entre el volumen hospitalario y los resultados en salud (mortalidad hospitalaria y reingreso por causa cardiaca a los 30 días) de los pacientes con insuficiencia cardiaca (IC).
+
+Se trata de un estudio observacional en el que se examinó un total de 117.233 episodios de IC durante el año 2015. “Los resultados en salud han de ser homogéneos con independencia de la tipología de hospital. Sin embargo, nuestro trabajo demuestra que esto no es así en el caso de la insuficiencia cardiaca (IC). La realidad es que, si separamos a los hospitales por su volumen, los resultados en salud de los pacientes con esta enfermedad difieren”, indica el Dr. Juan Luis Bonilla, autor principal del estudio y miembro de la Sociedad Española de Cardiología (SEC).
+
+El volumen hospitalario se refiere al número de pacientes con una patología asistidos por un centro; es decir, hace referencia a la actividad o carga asistencial. “Se entiende que aquellos con mayor volumen son hospitales con mayor carga asistencial; en general, hospitales más grandes. No obstante, un hospital podría ser de bajo volumen para una patología y de alto volumen para otra”, aclara el experto en cardiología.
+
+Investigaciones previas han reportado que determinados estándares de calidad se cumplen con mayor frecuencia en centros de alto volumen, de forma que alto volumen podría ser sinónimo de mayor calidad asistencial. Sin embargo, “la evidencia disponible hasta el momento es escasa y no permite concluir que los hospitales que asisten a un mayor número de pacientes son aquellos que tienen mejor resultados en salud”, indica el Dr. Bonilla.
+
+De ahí el valor añadido de este trabajo español, en el que los centros de alto volumen presentaron menor mortalidad por IC que los de bajo volumen. “En concreto, los primeros tuvieron una tasa de mortalidad intrahospitalaria estandarizada del 10,2% frente al 11,3% de los hospitales de bajo volumen”, detalla el Dr. Bonilla.   
+
+A pesar de estos datos, el cardiólogo aclara que “la relación entre volumen y mortalidad hospitalaria no está bien definida, de forma que se necesitan más estudios que analicen con detalle cuáles son los factores que influyen en esta relación: geográficos, económicos, organizativos o de otro tipo”.
+
+Por otro lado, el estudio muestra que los centros de alto volumen registraron un mayor número de reingresos por causa cardiovascular a los 30 días: un 10,7% frente al 9,2% de los hospitales de bajo volumen. En este sentido, “es posible que los centros de alto volumen encuentren más dificultades para organizar de forma idónea la transición de cuidados y los cuidados post-alta”.
+
+El experto en cardiología asegura: “Debemos preocuparnos por analizar cuidadosamente los factores que pueden estar influyendo en estos resultados, de forma que puedan corregirse posibles deficiencias y desequilibrios”.
+
+Hay que recordar que la IC es una enfermedad crónica con una elevada y creciente prevalencia e incidencia, así como una de las principales causas de morbimortalidad en el mundo occidental. En España afecta al 2,7% de la población mayor de 45 años y al 8,8% de los mayores de 74. Además, es la primera causa de hospitalización por encima de los 65 años y representa entre el 2 y el 3% del gasto sanitario español.
